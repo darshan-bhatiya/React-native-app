@@ -21,7 +21,9 @@ The "jobSearch" app is a React Native application designed to help job seekers f
 
 ## Screenshots
 
-![Add screenshots or wireframes of your app here](screenshot.png)
+![Homepage](https://github.com/darshan-bhatiya/React-native-app/assets/95214113/fd565ccd-82db-457e-83ce-07caa26d9a6f)
+![JobDetails](https://github.com/darshan-bhatiya/React-native-app/assets/95214113/14fab640-86a8-4f3d-83dc-0c5c20b43b13)
+![JobDetails](https://github.com/darshan-bhatiya/React-native-app/assets/95214113/a666c542-3ab3-4509-95a0-c076efbde19f)
 
 ## Getting Started
 
